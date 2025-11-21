@@ -1,12 +1,6 @@
 # CA6000 – Applied AI Programming
 
-[NTU Logo](https://img.shields.io/badge/NTU-CCDS-blue)
-
-[Degree](https://img.shields.io/badge/Master-MCAAI-orange)
-
-[Language](https://img.shields.io/badge/Python-3.9%2B-yellow)
-
-[License](https://img.shields.io/badge/License-MIT-green)
+![NTU Logo](https://img.shields.io/badge/NTU-CCDS-blue) ![Degree](https://img.shields.io/badge/Master-MCAAI-orange) ![Language](https://img.shields.io/badge/Python-3.9%2B-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
 
 This repository stores course materials and practice code for **CA6000: Applied AI Programming**,
 a core course in the **Master of Computing (Applied Artificial Intelligence)** programme at
