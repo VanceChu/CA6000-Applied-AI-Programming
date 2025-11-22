@@ -22,30 +22,22 @@ If you are taking the same course, please always refer to the official course we
 for the latest and authoritative information.
 
 ---
-
 ## Repository structure
 
-The folder structure may evolve during the trimester, but roughly:
+The repository is organized to separate course materials from my personal practice:
 
-- `Course Notes(PPT)/`  
-  Lecture slides and PDF notes for each topic
-  (e.g. *Topic 1 – Python Basics*, *Topic 5 – NumPy*, etc.).
+- **`Course Notes(PPT)/`** Lecture slides and PDF notes provided by the university (e.g., *Topic 1 – Python Basics*, *Topic 5 – NumPy*).
 
-- `Sample Codes/`  
-  Example code provided by the teaching team.
+- **`Sample Codes/`** Official example code provided by the teaching team.
 
-- `Software Tools/`  
-  Slides and notes about development tools used in the course
-  (e.g. Jupyter, Git/GitHub, Python environments).
+- **`Software Tools/`** Guides on development tools (Jupyter, Git, Environments).
 
-- `*.ipynb` at the root (e.g. `Nov18.ipynb`, `Topic5_NumPy_Practice.ipynb`)  
-  My own Jupyter notebooks for in-class demos, after-class practice, and small experiments.
+- **`Practice_Notebooks/`** My personal Jupyter notebooks for in-class demonstrations and after-class exercises.  
+  *(e.g., `Nov18.ipynb`, `Topic9_Pandas.ipynb`)*
 
-Over time I may add more folders such as:
+- **`Datasets/`** Raw data files (CSV, JSON, TXT) used within the practice notebooks.
 
-- `assignments/` – my assignment implementations and reports (if allowed by course policy)  
-- `projects/` – any course project code or experiments
-
+- **`assignments/`** *(Coming soon)* My assignment implementations and reports.
 ---
 
 ## How I use this repository
